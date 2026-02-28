@@ -15,11 +15,11 @@ Before contributing, please read our community documents:
 
 | Document | Description |
 |----------|-------------|
-| [CONTRIBUTING.md](https://github.com/LibrecourseUY/.github/blob/main/CONTRIBUTING.md) | How to contribute to our projects |
-| [CLA](https://github.com/LibrecourseUY/.github/blob/main/CLA.md) | Contributor License Agreement (required) |
-| [CODE_OF_CONDUCT.md](https://github.com/LibrecourseUY/.github/blob/main/CODE_OF_CONDUCT.md) | Community behavior expectations |
-| [TRADEMARK.md](https://github.com/LibrecourseUY/.github/blob/main/TRADEMARK.md) | Brand and identity guidelines |
-| [GOVERNANCE.md](https://github.com/LibrecourseUY/.github/blob/main/GOVERNANCE.md) | Project governance and roles |
+| [CONTRIBUTING.md](https://github.com/LibrecourseUY/.github/blob/master/CONTRIBUTING.md) | How to contribute to our projects |
+| [CLA](https://github.com/LibrecourseUY/.github/blob/master/CLA.md) | Contributor License Agreement (required) |
+| [CODE_OF_CONDUCT.md](https://github.com/LibrecourseUY/.github/blob/master/CODE_OF_CONDUCT.md) | Community behavior expectations |
+| [TRADEMARK.md](https://github.com/LibrecourseUY/.github/blob/master/TRADEMARK.md) | Brand and identity guidelines |
+| [GOVERNANCE.md](https://github.com/LibrecourseUY/.github/blob/master/GOVERNANCE.md) | Project governance and roles |
 
 ## How to Start Contributing
 
@@ -34,7 +34,7 @@ Before contributing, please read our community documents:
 
 ## Requirements
 
-- Accept and agree to our [CLA](https://github.com/LibrecourseUY/.github/blob/main/CLA.md)
+- Accept and agree to our [CLA](https://github.com/LibrecourseUY/.github/blob/master/CLA.md)
 - All commits must be signed with GPG
 - Follow our commit message conventions
 
