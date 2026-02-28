@@ -27,4 +27,4 @@ Open Source projects for Engineering students.
 
 ---
 
-Made with ❤️ by the Fingdev community
+Made with ❤️ by the LibrecourseUY community
