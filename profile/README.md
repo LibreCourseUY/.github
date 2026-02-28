@@ -19,14 +19,6 @@ Open Source projects for Engineering students.
 6. **Commit signed** - `git commit -m "feat: description"`
 7. **Push and PR** - Push to your fork and create a Pull Request
 
-## Resources
-
-- [Git Guide](https://librecourseuy.github.io/git)
-- [How to Learn](https://librecourseuy.github.io/learn)
-- [Linux Guide](https://librecourseuy.github.io/learn/linux)
-- [Documentation](https://librecourseuy.github.io/docs)
-- [Contributor License Agreement (CLA)](https://librecourseuy.github.io/CLA)
-
 ## Requirements
 
 - Accept and agree to our [CLA](https://librecourseuy.github.io/CLA)
