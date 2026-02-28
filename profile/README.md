@@ -9,19 +9,32 @@ Open Source projects for Engineering students.
 - [fingDB](https://github.com/LibrecourseUY/fingDB) - Centralized database API
 - [fingmap](https://github.com/LibrecourseUY/fingmap) - Interactive campus map
 
+## Community Documentation
+
+Before contributing, please read our community documents:
+
+| Document | Description |
+|----------|-------------|
+| [CONTRIBUTING.md](https://github.com/LibrecourseUY/.github/blob/main/CONTRIBUTING.md) | How to contribute to our projects |
+| [CLA](https://github.com/LibrecourseUY/.github/blob/main/CLA.md) | Contributor License Agreement (required) |
+| [CODE_OF_CONDUCT.md](https://github.com/LibrecourseUY/.github/blob/main/CODE_OF_CONDUCT.md) | Community behavior expectations |
+| [TRADEMARK.md](https://github.com/LibrecourseUY/.github/blob/main/TRADEMARK.md) | Brand and identity guidelines |
+| [GOVERNANCE.md](https://github.com/LibrecourseUY/.github/blob/main/GOVERNANCE.md) | Project governance and roles |
+
 ## How to Start Contributing
 
-1. **Set up your GPG key** - Required for all contributions
-2. **Fork a repository** - Click the "Fork" button
-3. **Clone your fork** - `git clone https://github.com/YOUR_USERNAME/repo.git`
-4. **Create a branch** - `git checkout -b feature/your-feature`
-5. **Make changes** - Edit the code
-6. **Commit signed** - `git commit -m "feat: description"`
-7. **Push and PR** - Push to your fork and create a Pull Request
+1. **Read the CLA** - Accept our Contributor License Agreement
+2. **Set up your GPG key** - Required for all contributions
+3. **Fork a repository** - Click the "Fork" button
+4. **Clone your fork** - `git clone https://github.com/YOUR_USERNAME/repo.git`
+5. **Create a branch** - `git checkout -b feature/your-feature`
+6. **Make changes** - Edit the code
+7. **Commit signed** - `git commit -m "feat: description"`
+8. **Push and PR** - Push to your fork and create a Pull Request
 
 ## Requirements
 
-- Accept and agree to our [CLA](https://librecourseuy.github.io/CLA)
+- Accept and agree to our [CLA](https://github.com/LibrecourseUY/.github/blob/main/CLA.md)
 - All commits must be signed with GPG
 - Follow our commit message conventions
 
