@@ -21,7 +21,7 @@ Open Source projects for Engineering students.
 
 ## Requirements
 
-- Accept and agree to our [CLA](https://librecourseuy.github.io/CLA)
+- Accept and agree to our [CLA](https://gist.githubusercontent.com/emiliano-gandini-outeda/51f249bf267c392e8773bfbcf1a5d147/raw/ab2d84a952edd6feb4cfeaec5f057d4e57d86d21/Fingdev-CLA)
 - All commits must be signed with GPG
 - Follow our commit message conventions
 
