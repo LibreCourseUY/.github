@@ -1,13 +1,13 @@
-# Fingdev
+# LibrecourseUY
 
-Open Source projects for Engineering students at UdelaR.
+Open Source projects for Engineering students.
 
 ## Our Projects
 
-- [fingdev.github.io](https://fingdev.github.io) - Community portal
-- [fingcomms](https://github.com/fingdev/fingcomms) - Student groups directory
-- [fingDB](https://github.com/fingdev/fingDB) - Centralized database API
-- [fingmap](https://github.com/fingdev/fingmap) - Interactive campus map
+- [fingdev.github.io](https://librecourseuy.github.io) - Community portal
+- [fingcomms](https://github.com/LibrecourseUY/fingcomms) - Student groups directory
+- [fingDB](https://github.com/LibrecourseUY/fingDB) - Centralized database API
+- [fingmap](https://github.com/LibrecourseUY/fingmap) - Interactive campus map
 
 ## How to Start Contributing
 
@@ -19,17 +19,9 @@ Open Source projects for Engineering students at UdelaR.
 6. **Commit signed** - `git commit -m "feat: description"`
 7. **Push and PR** - Push to your fork and create a Pull Request
 
-## Resources
-
-- [Git Guide](https://fingdev.github.io/git)
-- [How to Learn](https://fingdev.github.io/learn)
-- [Linux Guide](https://fingdev.github.io/learn/linux)
-- [Documentation](https://fingdev.github.io/docs)
-- [Contributor License Agreement (CLA)](https://fingdev.github.io/CLA)
-
 ## Requirements
 
-- Accept and agree to our [CLA](https://fingdev.github.io/CLA)
+- Accept and agree to our [CLA](https://librecourseuy.github.io/CLA)
 - All commits must be signed with GPG
 - Follow our commit message conventions
 
