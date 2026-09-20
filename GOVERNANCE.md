@@ -30,12 +30,12 @@ LibreCourseUY is open to contributions from the general public, including studen
 
 LibreCourseUY aims to operate according to the following principles:
 
-* **Openness** — contributions, discussion, and reuse should be encouraged whenever compatible with the project's goals
-* **Clarity** — decisions should be understandable and documented when relevant
-* **Respect** — collaboration must remain constructive and sustainable
-* **Practicality** — governance should help the project move forward, not slow it down unnecessarily
-* **Accountability** — people making decisions should be able to explain them
-* **Project protection** — maintainers may act to protect the project's technical quality, community health, legal safety, and non-institutional character
+* **Openness**: contributions, discussion, and reuse should be encouraged whenever compatible with the project's goals
+* **Clarity**: decisions should be understandable and documented when relevant
+* **Respect**: collaboration must remain constructive and sustainable
+* **Practicality**: governance should help the project move forward, not slow it down unnecessarily
+* **Accountability**: people making decisions should be able to explain them
+* **Project protection**: maintainers may act to protect the project's technical quality, community health, legal safety, and non-institutional character
 
 ---
 
