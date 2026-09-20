@@ -31,7 +31,6 @@ A non-profit FOSS community from Uruguay growing the next generation of open sou
 - [react-components](https://github.com/LibreCourseUY/react-components) — Collaborative React component library for developers taking their first steps in React.
 - [libreblog](https://github.com/LibreCourseUY/libreblog) — Community blog built with Hugo and auto-deployed via GitHub Actions.
 - [NexoComms](https://github.com/LibreCourseUY/NexoComms) — Directory for engineering student groups.
-- [Inkfing](https://github.com/LibreCourseUY/Inkfing) — Dark-mode extension for day-to-day engineering web apps.
 - [easy-calendar](https://github.com/LibreCourseUY/easy-calendar) — Lightweight year-view calendar web app (Preact + Vite) that loads events from JSON.
 
 **Tooling & infrastructure**
