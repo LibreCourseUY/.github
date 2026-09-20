@@ -35,7 +35,6 @@ A non-profit FOSS community from Uruguay growing the next generation of open sou
 
 **Tooling & infrastructure**
 
-- [PolyAPI](https://github.com/LibreCourseUY/PolyAPI): Polyglot API architecture demonstrating production-ready APIs built from isolated, well-defined modules.
 - [audit-log-microservice](https://github.com/LibreCourseUY/audit-log-microservice): Audit logging service.
 - [scripts](https://github.com/LibreCourseUY/scripts): Shared scripts used across our projects.
 - [web](https://github.com/LibreCourseUY/web): The [librecourse.uy](https://librecourse.uy) website (Astro).
