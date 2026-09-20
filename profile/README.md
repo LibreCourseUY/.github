@@ -4,7 +4,6 @@ LibreCourseUY is a non-profit initiative based in Uruguay that helps programmers
 
 ## Our Projects
 
-- [librecourseuy.github.io](https://librecourseuy.github.io) - Community portal
 - [fingcomms](https://github.com/LibrecourseUY/fingcomms) - Student groups directory
 - [fingDB](https://github.com/LibrecourseUY/fingDB) - Centralized database API
 - [fingmap](https://github.com/LibrecourseUY/fingmap) - Interactive campus map
