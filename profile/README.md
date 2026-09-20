@@ -17,8 +17,7 @@ A non-profit FOSS community from Uruguay growing the next generation of open sou
 
 ### Featured
 
-- [fingDB](https://github.com/LibreCourseUY/fingDB): Course information, prerequisites and career data, served through a database API and an interactive prerequisite graph.
-- [fingmap](https://github.com/LibreCourseUY/fingmap): Interactive campus map for finding classrooms, laboratories and other spaces.
+- [urumap](https://github.com/LibreCourseUY/urumap): Interactive maps of Uruguayan public buildings, rendered from mapcreator JSON.
 - [moodleTweaks](https://github.com/LibreCourseUY/moodleTweaks): Browser extension that improves the visual style and navigation of a Moodle-based virtual classroom.
 - [UruAPI](https://github.com/LibreCourseUY/UruAPI): Python API wrapping Uruguay's daily economic indicators (exchange rates, inflation, fuel and transit prices) from official sources.
 - [ArgosUY](https://github.com/LibreCourseUY/ArgosUY): Open-source platform that indexes Uruguay's GitHub ecosystem into ClickHouse, with a FastAPI backend.
@@ -30,7 +29,7 @@ A non-profit FOSS community from Uruguay growing the next generation of open sou
 - [initial-Challenges](https://github.com/LibreCourseUY/initial-Challenges): Starter programming challenges in Zig for first-time contributors.
 - [react-components](https://github.com/LibreCourseUY/react-components): Collaborative React component library for developers taking their first steps in React.
 - [libreblog](https://github.com/LibreCourseUY/libreblog): Community blog built with Hugo and auto-deployed via GitHub Actions.
-- [NexoComms](https://github.com/LibreCourseUY/NexoComms): Directory for engineering student groups.
+- [open-groups](https://github.com/LibreCourseUY/open-groups): Small self-hosted directory for groups, with configurable branding.
 - [easy-calendar](https://github.com/LibreCourseUY/easy-calendar): Lightweight year-view calendar web app (Preact + Vite) that loads events from JSON.
 
 **Tooling & infrastructure**
