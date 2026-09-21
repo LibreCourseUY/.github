@@ -22,7 +22,7 @@ LibreCourseUY is an **independent, community-driven, non-institutional open sour
 
 It exists to support the creation, maintenance, and dissemination of open resources, tools, and knowledge for the public good.
 
-LibreCourseUY is open to contributions from the general public, including students, educators, developers, maintainers, and other interested participants.
+LibreCourseUY is open to contributions from the general public, including developers, maintainers, and other interested participants.
 
 ---
 
@@ -267,7 +267,7 @@ When appropriate, a follow-up explanation may be provided after the immediate ri
 
 LibreCourseUY is not an official institutional body.
 
-Participation by students, staff, researchers, or other institution-affiliated individuals does **not** by itself make LibreCourseUY part of that institution.
+Participation by institution-affiliated individuals does **not** by itself make LibreCourseUY part of that institution.
 
 No contributor, maintainer, or administrator may claim institutional endorsement, official representation, or formal authority on behalf of any institution unless such authority has been expressly verified and documented.
 

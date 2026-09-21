@@ -2,7 +2,7 @@
 
 Thanks for your interest in contributing to **LibreCourseUY**.
 
-LibreCourseUY is an open community that builds and maintains useful public-interest resources under open-source and open-knowledge principles. We welcome contributions from students, teachers, developers, researchers, and the general public.
+LibreCourseUY is an open community that builds and maintains useful public-interest resources under open-source and open-knowledge principles. We welcome contributions from the general public.
 
 ## Before you start
 
