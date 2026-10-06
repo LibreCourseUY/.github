@@ -45,14 +45,14 @@ Before contributing, please read our community documents:
 | Document | Description |
 |----------|-------------|
 | [CONTRIBUTING.md](https://github.com/LibreCourseUY/.github/blob/master/CONTRIBUTING.md) | How to contribute to our projects |
-| [CLA](https://github.com/LibreCourseUY/.github/blob/master/CLA.md) | Contributor License Agreement (required) |
+| [DCO](https://developercertificate.org/) | Developer Certificate of Origin (sign off with `git commit -s`) |
 | [CODE_OF_CONDUCT.md](https://github.com/LibreCourseUY/.github/blob/master/CODE_OF_CONDUCT.md) | Community behavior expectations |
 | [TRADEMARK.md](https://github.com/LibreCourseUY/.github/blob/master/TRADEMARK.md) | Brand and identity guidelines |
 | [GOVERNANCE.md](https://github.com/LibreCourseUY/.github/blob/master/GOVERNANCE.md) | Project governance and roles |
 
 ## How to start contributing
 
-1. **Read the CLA**: accept our Contributor License Agreement.
+1. **Certify your commits**: sign off with `git commit -s` (Developer Certificate of Origin).
 2. **Set up your GPG key**: required for all contributions.
 3. **Fork a repository**: click the "Fork" button.
 4. **Clone your fork**: `git clone https://github.com/YOUR_USERNAME/repo.git`.
@@ -65,7 +65,7 @@ New here? Check the [contributing guide](https://librecourse.uy/contribute/) and
 
 ## Requirements
 
-- Accept and agree to our [CLA](https://github.com/LibreCourseUY/.github/blob/master/CLA.md).
+- Certify your commits with the [Developer Certificate of Origin](https://developercertificate.org/) (`git commit -s`).
 - All commits must be signed with GPG.
 - Follow our commit message conventions.
 

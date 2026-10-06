@@ -79,8 +79,7 @@ Maintainers will review reports in good faith and try to handle them as discreet
 This document works alongside:
 
 - `CONTRIBUTING.md`
-- `CLA.md`
 - `TRADEMARK.md`
 - `SECURITY.md`
 
-Licensing and contribution-rights questions are handled primarily under `CLA.md`.
+Licensing and contribution-rights questions are handled primarily under the Developer Certificate of Origin, described in `CONTRIBUTING.md`.

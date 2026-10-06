@@ -10,7 +10,6 @@ This document complements, but does not replace:
 
 * `CONTRIBUTING.md`
 * `CODE_OF_CONDUCT.md`
-* `CLA.md`
 * `TRADEMARK.md`
 * repository-specific documentation
 

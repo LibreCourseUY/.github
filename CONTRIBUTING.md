@@ -8,7 +8,6 @@ LibreCourseUY is an open community that builds and maintains useful public-inter
 
 Please read these files before contributing:
 
-- `CLA.md`
 - `CODE_OF_CONDUCT.md`
 - `TRADEMARK.md`
 - `SECURITY.md` (for vulnerability reporting)
@@ -63,7 +62,7 @@ Before opening a pull request, make sure that:
 - the title and description are clear; and
 - you are ready to accept review feedback.
 
-If the project requires signed commits or CLA confirmation, complete those steps too.
+Sign off your commits (`git commit -s`) to certify the Developer Certificate of Origin, and sign them with GPG if the project requires it.
 
 ## Things to avoid
 
